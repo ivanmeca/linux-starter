@@ -1,2 +1,14 @@
 # linux-starter
-Linux starter conatiner to generate new docker images
+Linux starter container to generate new docker images
+
+## Build 
+
+To build this image, open a new terminal and type:
+    
+``` docker build -t linux-starter . ```
+
+## Usage
+
+To start the use of this image, run the command:
+
+```  docker run -it linux-starter ```
