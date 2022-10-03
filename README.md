@@ -5,7 +5,7 @@ Linux starter container to generate new docker images
 
 To build this image, open a new terminal and type:
 
-```bash
+```
 docker build -t linux-starter .
 ```
 ## Usage
